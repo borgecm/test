@@ -1,0 +1,10 @@
+.profilePic{
+    width: 185px;
+    border-radius: 50%;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
